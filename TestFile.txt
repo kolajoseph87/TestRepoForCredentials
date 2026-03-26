@@ -1,4 +1,0 @@
-﻿TestFile
-This is a test file for testing git credentials.
-Purpose
-The primary objective of this document is to serve as a verifiable artifact for confirming successful configuration and authentication of Git credentials within a development environment. This may include testing SSH keys, HTTPS tokens, or other authentication mechanisms necessary for interaction with remote repositories.
